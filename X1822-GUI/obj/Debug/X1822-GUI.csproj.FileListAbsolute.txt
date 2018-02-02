@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\X1822-GUI\X1822-GUI\X1822-GUI\bin\X1822-GUI.dll.config
+C:\Users\Admin\Documents\X1822-GUI\X1822-GUI\X1822-GUI\bin\X1822-GUI.dll
+C:\Users\Admin\Documents\X1822-GUI\X1822-GUI\X1822-GUI\bin\X1822-GUI.pdb
+C:\Users\Admin\Documents\X1822-GUI\X1822-GUI\X1822-GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\X1822-GUI\X1822-GUI\X1822-GUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\X1822-GUI\X1822-GUI\X1822-GUI\obj\Debug\X1822-GUI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\X1822-GUI\X1822-GUI\X1822-GUI\obj\Debug\X1822-GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\X1822-GUI\X1822-GUI\X1822-GUI\obj\Debug\X1822-GUI.dll
+C:\Users\Admin\Documents\X1822-GUI\X1822-GUI\X1822-GUI\obj\Debug\X1822-GUI.pdb
