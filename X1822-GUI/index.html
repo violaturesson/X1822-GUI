@@ -1,13 +1,16 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8" />
+    <script src="Scripts/knockout-3.4.2.js"></script>
+    <script src="Scripts/knockout-3.4.2.debug.js"></script>
     <script src="script/index.js"></script>
 </head>
 <body>
     <div>
         <h1>My notes</h1>
-        <select id="dropdown"></select>
+        <select id="dropdown" data-bind="foreach: notes" onchange="showNote">
+            <option data-bind="value:text, text: title"></option>
+        </select>
     </div>
     <div id="edit">
 
