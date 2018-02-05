@@ -27,7 +27,7 @@ var viewModel = function (data) {
     this.notes = ko.observableArray(data);
     this.note = {
         _id: ko.observable(''),
-        title: ko.obervable(''),
+        title: ko.observable(''),
         body: ko.observable('')
     }
 }
